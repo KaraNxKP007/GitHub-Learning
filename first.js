@@ -13,3 +13,6 @@ const upi ="Integrated the UPI also"
 console.log(upi)
 
 console.log("New Updata")
+
+// Bug Fixing bug
+console.log("Bug Fixed")
